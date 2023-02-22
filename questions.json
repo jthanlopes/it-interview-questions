@@ -1,0 +1,252 @@
+{
+  "html": [
+    {
+      "id": "1.1",
+      "question": "O que é HTML semântico?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "1.2",
+      "question": "Explique DOCTYPE em HTML",
+      "answers": [
+        {
+          "answer": [],
+          "links": [],
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "1.3",
+      "question": "Qual a diferença entre HTML e HTML5?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "1.4",
+      "question": "Qual a diferença entre Local Storage, Session Storage e Cookies?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "1.5",
+      "question": "Considere o HTML 5 como uma plataforma web aberta. Quais são os blocos de construção de HTML5?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    }
+  ],
+  "css": [
+    {
+      "id": "2.1",
+      "question": "Qual a versão mais recente do CSS?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "2.2",
+      "question": "Cite algum novo recurso do CSS3?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "2.3",
+      "question": "Explique os diferentes tipos de seletores?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "2.4",
+      "question": "Fale a diferença entre inline-block, block e inline",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "2.5",
+      "question": "O que é o z-index e por que ele é usado?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "2.6",
+      "question": "Qual a diferença entre preenchimento e margem? (padding e margin)",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    }
+  ],
+  "javascript": [
+    {
+      "id": "3.1",
+      "question": "Qual a diferença entre const e var?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "3.2",
+      "question": "Quais são os diferentes tipos de dados (data types) em JavaScript?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "3.3",
+      "question": "O que é um Array e como criar um Array em JavaScript?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "3.4",
+      "question": "Qual a diferença entre função e metódo? (function e method)",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "3.5",
+      "question": "Qual a diferença entre documento e janela? (document e window)",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    }
+  ],
+  "reactjs": [
+    {
+      "id": "4.1",
+      "question": "Qual a diferença entre DOM real e DOM virtual?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "4.2",
+      "question": "O que são componentes em React?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "4.3",
+      "question": "O que é um state e como ele é utilizado para gerenciar o estado de um componente no React?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "4.4",
+      "question": "O que são error boundaries?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "4.5",
+      "question": "Como você faz para lidar com rotas no React?",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "4.6",
+      "question": "Descreva como você implementaria uma estrutura de rotas em uma aplicação React.",
+      "answers": [
+        {
+          "answer": [],
+          "links": []
+        }
+      ],
+      "links": []
+    }
+  ]
+}
